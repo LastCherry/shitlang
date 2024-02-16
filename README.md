@@ -1,0 +1,2 @@
+# shitlang
+shitty language
